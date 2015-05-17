@@ -1,21 +1,21 @@
 {
-  "name": "reveal.js",
-  "version": "3.0.0",
-  "description": "The HTML Presentation Framework",
-  "homepage": "http://lab.hakim.se/reveal-js",
+  "name": "git basics",
+  "version": "0.1.0",
+  "description": "GIT Basics Presentation",
+  "homepage": "http://www.burakince.net",
   "subdomain": "revealjs",
   "scripts": {
     "test": "grunt test",
     "start": ""
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
+    "name": "Burak İnce",
+    "email": "burak.ince@linux.org.tr",
+    "web": "http://www.burakince.net"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "git://github.com/burakince/git-presentation.git"
   },
   "engines": {
     "node": "~0.10.0"
@@ -38,11 +38,5 @@
     "grunt-zip": "~0.7.0",
     "grunt": "~0.4.0",
     "node-sass": "~0.9.3"
-  },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/hakimel/reveal.js/blob/master/LICENSE"
-    }
-  ]
+  }
 }
